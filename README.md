@@ -1,7 +1,7 @@
 # 6213 - Minería de datos
 Código parte del curso de Minería de datos
 
-*Semestre 1-2024*
+*Semestre 2-2025*
 
 **Componentes:**
 - `setup.ipynb`: Detalles sobre la configuración inicial necesaria para usar el código
@@ -10,4 +10,4 @@ Código parte del curso de Minería de datos
 - `pensum_actualizado.pdf`: Pensum oficial aprobado para el curso
 
 **Otros lugares**
-- [Youtube playlist](https://youtu.be/JXzOdXXTqbw?si=_l1cmWu1UJ4NbtxY)
+- [Youtube playlist](https://www.youtube.com/watch?v=JXzOdXXTqbw&list=PLcW0HF-eq6TwVtKbPI_LEP2Gs2inc7rCW&index=1)
